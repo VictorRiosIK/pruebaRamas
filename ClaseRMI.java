@@ -1,6 +1,6 @@
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
-
+hola subido a la rama prueba
 public class ClaseRMI extends UnicastRemoteObject implements InterfaceRMI{
 
     protected ClaseRMI() throws RemoteException {
